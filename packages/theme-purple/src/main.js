@@ -8,7 +8,7 @@ class theme {
       
     const purple_dark = new ThemeBuilder('Acode Purple', 'dark', 'free');
 
-    purple_dark.primaryColor = '#191D24';
+    purple_dark.primaryColor = '#f0900';
     purple_dark.popupBackgroundColor = '#24292e';
     purple_dark.darkenedPrimaryColor = '#191D24';
     purple_dark.primaryTextColor = '#ffffff';
